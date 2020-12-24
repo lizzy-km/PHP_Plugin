@@ -14,7 +14,7 @@
     "php-parser": "glayzzle/php-parser#940e0d0bbf0af59bd2ca5c238d2feccee472d877"
   },
   "devDependencies": {
-    "codecov": "3.1.0",
+    "codecov": "3.7.1",
     "eslint": "5.6.0",
     "eslint-config-prettier": "3.1.0",
     "eslint-plugin-import": "2.14.0",
